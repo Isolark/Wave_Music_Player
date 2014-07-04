@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+  <instrument instrument="CrashDrum" repeat="3">
+    <note measure="1" beat="1" duration="1.9" note="C5"/>
+    <note measure="1" beat="2" duration="1.9" note="C5"/>
+    <note measure="1" beat="3" duration="1.0" note="C5"/>
+    <note measure="1" beat="4" duration="1.0" note="C5"/>
+  </instrument>
+
+
+
+  
+
+</score>

@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="60" beatspermeasure="8">
+  <effect effect="reverb" name="Reverb!" delay="0.1" gain="0.7" />
+  <effect effect="drc" name="DRC!" />
+  <effect effect="ring" name="RingMod!" />
+  <effect effect="flange" name="Flange!" />
+  <effect effect="chorus" name="Chorus!" />
+  
+  <instrument instrument="Cello" repeat="9">
+    <send effect="Chorus!" amount="1.0" />
+    
+    <note measure="1" beat="1.0" duration="1.0" note="D3" />
+    <note measure="1" beat="2.0" duration="1.0" note="A2" />
+    <note measure="1" beat="3.0" duration="1.0" note="B2" />
+    <note measure="1" beat="4.0" duration="1.0" note="F#2" />
+    <note measure="1" beat="5.0" duration="1.0" note="G2" />
+    <note measure="1" beat="6.0" duration="1.0" note="D2" />
+    <note measure="1" beat="7.0" duration="1.0" note="G2" />
+    <note measure="1" beat="8.0" duration="1.0" note="A2" />
+  </instrument>
+  <instrument instrument="Tuba" repeat="8">
+    <send effect="Flange!" amount="1.0" />
+    
+    <note measure="1" beat="1.0" duration="2.0" note="A2" />
+    <note measure="1" beat="3.0" duration="2.0" note="F#2" />
+    <note measure="1" beat="5.0" duration="2.0" note="D2" />
+    <note measure="1" beat="7.0" duration="2.0" note="E2" />
+  </instrument>
+  <instrument instrument="BassDrum" repeat="8">
+    <note measure="1" beat="1.0" duration="2.0" note="C5" />
+    <note measure="1" beat="3.0" duration="2.0" note="C5" />
+    <note measure="1" beat="5.0" duration="2.0" note="C5" />
+    <note measure="1" beat="7.0" duration="2.0" note="C5" />
+  </instrument>
+  <instrument instrument="CrashDrum" repeat="7">
+    <note measure="2" beat="1.0" duration="2.5" note="C5" />
+    <note measure="2" beat="1.0" duration="2.5" note="A4" />
+  </instrument>
+
+  <instrument instrument="ShakerDrum" repeat="8">
+    <note measure="2" beat="1.0" duration="1.0" note="B4" />
+    <note measure="2" beat="2.0" duration="1.0" note="B4" />
+    <note measure="2" beat="3.0" duration="1.0" note="B4" />
+    <note measure="2" beat="4.0" duration="1.0" note="B4" />
+    <note measure="2" beat="5.0" duration="1.0" note="B4" />
+    <note measure="2" beat="6.0" duration="1.0" note="B4" />
+    <note measure="2" beat="7.0" duration="1.0" note="B4" />
+    <note measure="2" beat="8.0" duration="1.0" note="B4" />
+  </instrument>
+  <instrument instrument="Clarinet">
+    <note measure="3" beat="1.0" duration="1.0" note="F#4" />
+    <note measure="3" beat="2.0" duration="1.0" note="E4" />
+    <note measure="3" beat="3.0" duration="1.0" note="D4" />
+    <note measure="3" beat="4.0" duration="1.0" note="C#4" />
+    <note measure="3" beat="5.0" duration="1.0" note="B3" />
+    <note measure="3" beat="6.0" duration="1.0" note="A3" />
+    <note measure="3" beat="7.0" duration="1.0" note="B3" />
+    <note measure="3" beat="8.0" duration="1.0" note="C#4" />
+    
+    <note measure="4" beat="1.0" duration="1.0" note="D4" />
+    <note measure="4" beat="2.0" duration="1.0" note="C#4" />
+    <note measure="4" beat="3.0" duration="1.0" note="B3" />
+    <note measure="4" beat="4.0" duration="1.0" note="A3" />
+    <note measure="4" beat="5.0" duration="1.0" note="G3" />
+    <note measure="4" beat="6.0" duration="1.0" note="F#3" />
+    <note measure="4" beat="7.0" duration="1.0" note="G3" />
+    <note measure="4" beat="8.0" duration="1.0" note="E3" />
+    
+    <note measure="5" beat="1.0" duration="0.5" note="D4" />
+    <note measure="5" beat="1.5" duration="0.5" note="F#4" />
+    <note measure="5" beat="2.0" duration="0.5" note="A4" />
+    <note measure="5" beat="2.5" duration="0.5" note="G4" />
+    <note measure="5" beat="3.0" duration="0.5" note="B3" />
+    <note measure="5" beat="3.5" duration="0.5" note="D4" />
+    <note measure="5" beat="4.0" duration="0.5" note="F#4" />
+    <note measure="5" beat="4.5" duration="0.5" note="E4" />
+    <note measure="5" beat="5.0" duration="0.5" note="G3" />
+    <note measure="5" beat="5.5" duration="0.5" note="B3" />
+    <note measure="5" beat="6.0" duration="0.5" note="D4" />
+    <note measure="5" beat="6.5" duration="0.5" note="A3" />
+    <note measure="5" beat="7.0" duration="0.5" note="B3" />
+    <note measure="5" beat="7.5" duration="0.5" note="G3" />
+    <note measure="5" beat="8.0" duration="0.5" note="E3" />
+    <note measure="5" beat="8.5" duration="0.5" note="A3" />
+
+    <note measure="6" beat="1.0" duration="0.5" note="A3" />
+    <note measure="6" beat="1.5" duration="0.5" note="D4" />
+    <note measure="6" beat="2.0" duration="0.5" note="E4" />
+    <note measure="6" beat="2.5" duration="0.5" note="C#4" />
+    <note measure="6" beat="3.0" duration="0.5" note="D4" />
+    <note measure="6" beat="3.5" duration="0.5" note="F#4" />
+    <note measure="6" beat="4.0" duration="0.5" note="A4" />
+    <note measure="6" beat="4.5" duration="0.5" note="A3" />
+    <note measure="6" beat="5.0" duration="0.5" note="B3" />
+    <note measure="6" beat="5.5" duration="0.5" note="G3" />
+    <note measure="6" beat="6.0" duration="0.5" note="A3" />
+    <note measure="6" beat="6.5" duration="0.5" note="A3" />
+    <note measure="6" beat="7.0" duration="0.5" note="G3" />
+    <note measure="6" beat="7.5" duration="0.5" note="D4" />
+    <note measure="6" beat="8.0" duration="0.5" note="C#4" />
+    <note measure="6" beat="8.5" duration="0.5" note="A3" />
+  </instrument>
+  <instrument instrument="Trumpet">
+    <note measure="4" beat="1.0" duration="1.0" note="F#4" />
+    <note measure="4" beat="2.0" duration="1.0" note="E4" />
+    <note measure="4" beat="3.0" duration="1.0" note="D4" />
+    <note measure="4" beat="4.0" duration="1.0" note="C#4" />
+    <note measure="4" beat="5.0" duration="1.0" note="B3" />
+    <note measure="4" beat="6.0" duration="1.0" note="A3" />
+    <note measure="4" beat="7.0" duration="1.0" note="B3" />
+    <note measure="4" beat="8.0" duration="1.0" note="C#4" />
+
+    <note measure="5" beat="1.0" duration="1.0" note="D4" />
+    <note measure="5" beat="2.0" duration="1.0" note="C#4" />
+    <note measure="5" beat="3.0" duration="1.0" note="B3" />
+    <note measure="5" beat="4.0" duration="1.0" note="A3" />
+    <note measure="5" beat="5.0" duration="1.0" note="G3" />
+    <note measure="5" beat="6.0" duration="1.0" note="F#3" />
+    <note measure="5" beat="7.0" duration="1.0" note="G3" />
+    <note measure="5" beat="8.0" duration="1.0" note="E3" />
+
+    <note measure="6" beat="1.0" duration="0.5" note="D4" />
+    <note measure="6" beat="1.5" duration="0.5" note="F#4" />
+    <note measure="6" beat="2.0" duration="0.5" note="A4" />
+    <note measure="6" beat="2.5" duration="0.5" note="G4" />
+    <note measure="6" beat="3.0" duration="0.5" note="B3" />
+    <note measure="6" beat="3.5" duration="0.5" note="D4" />
+    <note measure="6" beat="4.0" duration="0.5" note="F#4" />
+    <note measure="6" beat="4.5" duration="0.5" note="E4" />
+    <note measure="6" beat="5.0" duration="0.5" note="G3" />
+    <note measure="6" beat="5.5" duration="0.5" note="B3" />
+    <note measure="6" beat="6.0" duration="0.5" note="D4" />
+    <note measure="6" beat="6.5" duration="0.5" note="A3" />
+    <note measure="6" beat="7.0" duration="0.5" note="B3" />
+    <note measure="6" beat="7.5" duration="0.5" note="G3" />
+    <note measure="6" beat="8.0" duration="0.5" note="E3" />
+    <note measure="6" beat="8.5" duration="0.5" note="A3" />
+
+    <note measure="7" beat="1.0" duration="0.5" note="A3" />
+    <note measure="7" beat="1.5" duration="0.5" note="D4" />
+    <note measure="7" beat="2.0" duration="0.5" note="E4" />
+    <note measure="7" beat="2.5" duration="0.5" note="C#4" />
+    <note measure="7" beat="3.0" duration="0.5" note="D4" />
+    <note measure="7" beat="3.5" duration="0.5" note="F#4" />
+    <note measure="7" beat="4.0" duration="0.5" note="A4" />
+    <note measure="7" beat="4.5" duration="0.5" note="A3" />
+    <note measure="7" beat="5.0" duration="0.5" note="B3" />
+    <note measure="7" beat="5.5" duration="0.5" note="G3" />
+    <note measure="7" beat="6.0" duration="0.5" note="A3" />
+    <note measure="7" beat="6.5" duration="0.5" note="A3" />
+    <note measure="7" beat="7.0" duration="0.5" note="G3" />
+    <note measure="7" beat="7.5" duration="0.5" note="D4" />
+    <note measure="7" beat="8.0" duration="0.5" note="C#4" />
+    <note measure="7" beat="8.5" duration="0.5" note="A3" />
+  </instrument>
+  <instrument instrument="SawInstrument">
+    <send effect="DRC!" amount="1.0" />
+    
+    <note measure="5" beat="1.0" duration="1.0" note="F#4" />
+    <note measure="5" beat="2.0" duration="1.0" note="E4" />
+    <note measure="5" beat="3.0" duration="1.0" note="D4" />
+    <note measure="5" beat="4.0" duration="1.0" note="C#4" />
+    <note measure="5" beat="5.0" duration="1.0" note="B3" />
+    <note measure="5" beat="6.0" duration="1.0" note="A3" />
+    <note measure="5" beat="7.0" duration="1.0" note="B3" />
+    <note measure="5" beat="8.0" duration="1.0" note="C#4" />
+
+    <note measure="6" beat="1.0" duration="1.0" note="D4" />
+    <note measure="6" beat="2.0" duration="1.0" note="C#4" />
+    <note measure="6" beat="3.0" duration="1.0" note="B3" />
+    <note measure="6" beat="4.0" duration="1.0" note="A3" />
+    <note measure="6" beat="5.0" duration="1.0" note="G3" />
+    <note measure="6" beat="6.0" duration="1.0" note="F#3" />
+    <note measure="6" beat="7.0" duration="1.0" note="G3" />
+    <note measure="6" beat="8.0" duration="1.0" note="E3" />
+
+    <note measure="7" beat="1.0" duration="0.5" note="D4" />
+    <note measure="7" beat="1.5" duration="0.5" note="F#4" />
+    <note measure="7" beat="2.0" duration="0.5" note="A4" />
+    <note measure="7" beat="2.5" duration="0.5" note="G4" />
+    <note measure="7" beat="3.0" duration="0.5" note="B3" />
+    <note measure="7" beat="3.5" duration="0.5" note="D4" />
+    <note measure="7" beat="4.0" duration="0.5" note="F#4" />
+    <note measure="7" beat="4.5" duration="0.5" note="E4" />
+    <note measure="7" beat="5.0" duration="0.5" note="G3" />
+    <note measure="7" beat="5.5" duration="0.5" note="B3" />
+    <note measure="7" beat="6.0" duration="0.5" note="D4" />
+    <note measure="7" beat="6.5" duration="0.5" note="A3" />
+    <note measure="7" beat="7.0" duration="0.5" note="B3" />
+    <note measure="7" beat="7.5" duration="0.5" note="G3" />
+    <note measure="7" beat="8.0" duration="0.5" note="E3" />
+    <note measure="7" beat="8.5" duration="0.5" note="A3" />
+
+    <note measure="8" beat="1.0" duration="0.5" note="A3" />
+    <note measure="8" beat="1.5" duration="0.5" note="D4" />
+    <note measure="8" beat="2.0" duration="0.5" note="E4" />
+    <note measure="8" beat="2.5" duration="0.5" note="C#4" />
+    <note measure="8" beat="3.0" duration="0.5" note="D4" />
+    <note measure="8" beat="3.5" duration="0.5" note="F#4" />
+    <note measure="8" beat="4.0" duration="0.5" note="A4" />
+    <note measure="8" beat="4.5" duration="0.5" note="A3" />
+    <note measure="8" beat="5.0" duration="0.5" note="B3" />
+    <note measure="8" beat="5.5" duration="0.5" note="G3" />
+    <note measure="8" beat="6.0" duration="0.5" note="A3" />
+    <note measure="8" beat="6.5" duration="0.5" note="A3" />
+    <note measure="8" beat="7.0" duration="0.5" note="G3" />
+    <note measure="8" beat="7.5" duration="0.5" note="D4" />
+    <note measure="8" beat="8.0" duration="0.5" note="C#4" />
+    <note measure="8" beat="8.5" duration="0.5" note="A3" />
+  </instrument>
+  <instrument instrument="TriangleInstrument">
+    <send effect="DRC!" amount="1.0" />
+    
+    <note measure="6" beat="1.0" duration="1.0" note="F#4" />
+    <note measure="6" beat="2.0" duration="1.0" note="E4" />
+    <note measure="6" beat="3.0" duration="1.0" note="D4" />
+    <note measure="6" beat="4.0" duration="1.0" note="C#4" />
+    <note measure="6" beat="5.0" duration="1.0" note="B3" />
+    <note measure="6" beat="6.0" duration="1.0" note="A3" />
+    <note measure="6" beat="7.0" duration="1.0" note="B3" />
+    <note measure="6" beat="8.0" duration="1.0" note="C#4" />
+
+    <note measure="7" beat="1.0" duration="1.0" note="D4" />
+    <note measure="7" beat="2.0" duration="1.0" note="C#4" />
+    <note measure="7" beat="3.0" duration="1.0" note="B3" />
+    <note measure="7" beat="4.0" duration="1.0" note="A3" />
+    <note measure="7" beat="5.0" duration="1.0" note="G3" />
+    <note measure="7" beat="6.0" duration="1.0" note="F#3" />
+    <note measure="7" beat="7.0" duration="1.0" note="G3" />
+    <note measure="7" beat="8.0" duration="1.0" note="E3" />
+
+    <note measure="8" beat="1.0" duration="0.5" note="D4" />
+    <note measure="8" beat="1.5" duration="0.5" note="F#4" />
+    <note measure="8" beat="2.0" duration="0.5" note="A4" />
+    <note measure="8" beat="2.5" duration="0.5" note="G4" />
+    <note measure="8" beat="3.0" duration="0.5" note="B3" />
+    <note measure="8" beat="3.5" duration="0.5" note="D4" />
+    <note measure="8" beat="4.0" duration="0.5" note="F#4" />
+    <note measure="8" beat="4.5" duration="0.5" note="E4" />
+    <note measure="8" beat="5.0" duration="0.5" note="G3" />
+    <note measure="8" beat="5.5" duration="0.5" note="B3" />
+    <note measure="8" beat="6.0" duration="0.5" note="D4" />
+    <note measure="8" beat="6.5" duration="0.5" note="A3" />
+    <note measure="8" beat="7.0" duration="0.5" note="B3" />
+    <note measure="8" beat="7.5" duration="0.5" note="G3" />
+    <note measure="8" beat="8.0" duration="0.5" note="E3" />
+    <note measure="8" beat="8.5" duration="0.5" note="A3" />
+
+    <note measure="9" beat="1.0" duration="0.5" note="A3" />
+    <note measure="9" beat="1.5" duration="0.5" note="D4" />
+    <note measure="9" beat="2.0" duration="0.5" note="E4" />
+    <note measure="9" beat="2.5" duration="0.5" note="C#4" />
+    <note measure="9" beat="3.0" duration="0.5" note="D4" />
+    <note measure="9" beat="3.5" duration="0.5" note="F#4" />
+    <note measure="9" beat="4.0" duration="0.5" note="A4" />
+    <note measure="9" beat="4.5" duration="0.5" note="A3" />
+    <note measure="9" beat="5.0" duration="0.5" note="B3" />
+    <note measure="9" beat="5.5" duration="0.5" note="G3" />
+    <note measure="9" beat="6.0" duration="0.5" note="A3" />
+    <note measure="9" beat="6.5" duration="0.5" note="A3" />
+    <note measure="9" beat="7.0" duration="0.5" note="G3" />
+    <note measure="9" beat="7.5" duration="0.5" note="D4" />
+    <note measure="9" beat="8.0" duration="0.5" note="C#4" />
+    <note measure="9" beat="8.5" duration="0.5" note="A3" />
+  </instrument>
+  <instrument instrument="SquareInstrument">
+    <send effect="DRC!" amount="1.0" />
+    
+    <note measure="7" beat="1.0" duration="1.0" note="F#4" />
+    <note measure="7" beat="2.0" duration="1.0" note="E4" />
+    <note measure="7" beat="3.0" duration="1.0" note="D4" />
+    <note measure="7" beat="4.0" duration="1.0" note="C#4" />
+    <note measure="7" beat="5.0" duration="1.0" note="B3" />
+    <note measure="7" beat="6.0" duration="1.0" note="A3" />
+    <note measure="7" beat="7.0" duration="1.0" note="B3" />
+    <note measure="7" beat="8.0" duration="1.0" note="C#4" />
+
+    <note measure="8" beat="1.0" duration="1.0" note="D4" />
+    <note measure="8" beat="2.0" duration="1.0" note="C#4" />
+    <note measure="8" beat="3.0" duration="1.0" note="B3" />
+    <note measure="8" beat="4.0" duration="1.0" note="A3" />
+    <note measure="8" beat="5.0" duration="1.0" note="G3" />
+    <note measure="8" beat="6.0" duration="1.0" note="F#3" />
+    <note measure="8" beat="7.0" duration="1.0" note="G3" />
+    <note measure="8" beat="8.0" duration="1.0" note="E3" />
+
+    <note measure="9" beat="1.0" duration="0.5" note="D4" />
+    <note measure="9" beat="1.5" duration="0.5" note="F#4" />
+    <note measure="9" beat="2.0" duration="0.5" note="A4" />
+    <note measure="9" beat="2.5" duration="0.5" note="G4" />
+    <note measure="9" beat="3.0" duration="0.5" note="B3" />
+    <note measure="9" beat="3.5" duration="0.5" note="D4" />
+    <note measure="9" beat="4.0" duration="0.5" note="F#4" />
+    <note measure="9" beat="4.5" duration="0.5" note="E4" />
+    <note measure="9" beat="5.0" duration="0.5" note="G3" />
+    <note measure="9" beat="5.5" duration="0.5" note="B3" />
+    <note measure="9" beat="6.0" duration="0.5" note="D4" />
+    <note measure="9" beat="6.5" duration="0.5" note="A3" />
+    <note measure="9" beat="7.0" duration="0.5" note="B3" />
+    <note measure="9" beat="7.5" duration="0.5" note="G3" />
+    <note measure="9" beat="8.0" duration="0.5" note="E3" />
+    <note measure="9" beat="8.5" duration="0.5" note="A3" />
+
+    <note measure="10" beat="1.0" duration="0.5" note="A3" />
+    <note measure="10" beat="1.5" duration="0.5" note="D4" />
+    <note measure="10" beat="2.0" duration="0.5" note="E4" />
+    <note measure="10" beat="2.5" duration="0.5" note="C#4" />
+    <note measure="10" beat="3.0" duration="0.5" note="D4" />
+    <note measure="10" beat="3.5" duration="0.5" note="F#4" />
+    <note measure="10" beat="4.0" duration="0.5" note="A4" />
+    <note measure="10" beat="4.5" duration="0.5" note="A3" />
+    <note measure="10" beat="5.0" duration="0.5" note="B3" />
+    <note measure="10" beat="5.5" duration="0.5" note="G3" />
+    <note measure="10" beat="6.0" duration="0.5" note="A3" />
+    <note measure="10" beat="6.5" duration="0.5" note="A3" />
+    <note measure="10" beat="7.0" duration="0.5" note="G3" />
+    <note measure="10" beat="7.5" duration="0.5" note="D4" />
+    <note measure="10" beat="8.0" duration="0.5" note="C#4" />
+    <note measure="10" beat="8.5" duration="0.5" note="A3" />
+  </instrument>
+  <instrument instrument="Cello">
+    <send effect="Reverb!" amount="1.0" />
+    
+    <note measure="11" beat="1.0" duration="0.5" note="D3" />
+    <note measure="11" beat="2.0" duration="0.5" note="A2" />
+    <note measure="11" beat="3.0" duration="0.5" note="B2" />
+    <note measure="11" beat="4.0" duration="0.5" note="F#2" />
+    <note measure="11" beat="5.0" duration="0.5" note="G2" />
+    <note measure="11" beat="6.0" duration="0.5" note="D2" />
+    <note measure="11" beat="7.0" duration="0.5" note="G2" />
+    <note measure="11" beat="8.0" duration="0.5" note="A2" />
+  </instrument>
+  <instrument instrument="SynthDrum">
+    <note measure="12" beat="1.0" duration="0.5" note="D4" />
+    <note measure="12" beat="1.0" duration="0.5" note="F#4" />
+    <note measure="12" beat="1.0" duration="0.5" note="A4" />
+
+    <note measure="12" beat="1.5" duration="1.5" note="D4" />
+    <note measure="12" beat="1.5" duration="1.5" note="F4" />
+    <note measure="12" beat="1.5" duration="1.5" note="G4" />
+  </instrument>
+
+  <instrument instrument="AdditiveSynth">
+    <note measure="12" beat="2.0" duration="0.5" note="D4" a1=".1" c1="4" a2="0.05" vibrato="true"/>
+    <note measure="12" beat="2.0" duration="0.5" note="F#4" a1=".1" c1="4" a2="0.05" vibrato="true"/>
+    <note measure="12" beat="2.0" duration="0.5" note="A4" a1=".1" c1="4" a2="0.05" vibrato="true"/>
+
+    <note measure="12" beat="2.5" duration="0.5" note="D4" a1=".1" c1="4" a2="0.05" vibrato="true"/>
+    <note measure="12" beat="2.5" duration="0.5" note="F4" a1=".1" c1="4" a2="0.05" vibrato="true"/>
+    <note measure="12" beat="2.5" duration="0.5" note="G4" a1=".1" c1="4" a2="0.05" vibrato="true"/>
+  </instrument>
+</score>

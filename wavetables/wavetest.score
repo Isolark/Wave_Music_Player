@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="60" beatspermeasure="4">
+	<instrument instrument="Trumpet">
+		<note measure="1" beat="1" duration="1" note="C4"/>
+		<note measure="1" beat="2" duration=".5" note="C6"/>
+		<note measure="1" beat="3" duration="1" note="C4"/>
+	</instrument>
+</score>

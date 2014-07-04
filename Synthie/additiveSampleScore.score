@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="180" beatspermeasure="4">
+  <instrument instrument="AdditiveSynth">
+    <note measure="1" beat="3.5" duration="0.5" note="D4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="1" beat="4.0" duration="0.5" note="F4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="1" beat="4.5" duration="0.5" note="G4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="2" beat="1.5" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="2" beat="2.0" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="2" beat="2.5" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="2" beat="3.0" duration="1.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="2" beat="4.5" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="3" beat="1.0" duration="1.0" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="3" beat="2.0" duration="0.5" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="3" beat="2.5" duration="2.0" note="F4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="3" beat="4.5" duration="0.5" note="F4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="4" beat="1.0" duration="1.0" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="4" beat="2.0" duration="1.0" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="4" beat="3.0" duration="0.5" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="4" beat="3.5" duration="0.5" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="4" beat="4.0" duration="3.0" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="6" beat="1.5" duration="0.5" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="6" beat="2.0" duration="1.0" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="6" beat="3.0" duration="1.0" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="6" beat="4.0" duration="0.5" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="6" beat="4.5" duration="1.0" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="7" beat="1.5" duration="1.0" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="7" beat="2.5" duration="2.0" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="7" beat="4.5" duration="0.5" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="8" beat="1.0" duration="1.0" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="8" beat="2.0" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="8" beat="2.5" duration="1.0" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="8" beat="3.5" duration="0.5" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="8" beat="4.0" duration="5.0" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="10" beat="2.0" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="10" beat="2.5" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="10" beat="3.0" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="10" beat="3.5" duration="1.0" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="10" beat="4.5" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="11" beat="1.0" duration="1.0" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="11" beat="2.0" duration="0.5" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="11" beat="2.5" duration="2.0" note="F4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="11" beat="4.5" duration="0.5" note="F4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="12" beat="1.0" duration="0.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="12" beat="1.5" duration="1.5" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="12" beat="3.0" duration="0.5" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="12" beat="3.5" duration="1.0" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="12" beat="4.5" duration="2.5" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="14" beat="1.5" duration="0.5" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="14" beat="2.0" duration="0.5" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="14" beat="2.5" duration="0.5" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="14" beat="3.0" duration="1.5" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="14" beat="4.5" duration="0.5" note="D#5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+
+    <note measure="15" beat="1.0" duration="1.0" note="D5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="15" beat="2.0" duration="0.5" note="C5" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="15" beat="2.5" duration="2.0" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+    <note measure="15" beat="4.5" duration="0.5" note="A#4" a1="1" c1="4" a2="0.25" vibrato="true"/>
+  </instrument>
+</score>
+

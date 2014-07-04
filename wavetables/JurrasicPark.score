@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="80" beatspermeasure="4">
+  <instrument instrument="DrawnWave">
+    <note measure="1" beat="4.0" duration="0.5" note="Bb4"/>
+    <note measure="1" beat="4.5" duration="0.5" note="A4"/>
+    
+	<note measure="2" beat="1.0" duration="3.0" note="Bb4"/>
+	
+	<note measure="2" beat="4.0" duration="0.5" note="Bb4"/>
+    <note measure="2" beat="4.5" duration="0.5" note="A4"/>
+	
+	<note measure="3" beat="1.0" duration="3.0" note="Bb4"/>
+	
+	<note measure="3" beat="4.0" duration="0.5" note="Bb4"/>
+    <note measure="3" beat="4.5" duration="0.5" note="A4"/>
+	
+	<note measure="4" beat="1.0" duration="1.5" note="Bb4"/>
+	
+	<note measure="4" beat="2.5" duration="0.5" note="C5"/>
+	<note measure="4" beat="3.0" duration="1.5" note="C5"/>
+	
+	<note measure="4" beat="4.5" duration="0.5" note="Eb5"/>
+	
+	<note measure="5" beat="1.0" duration="3.0" note="Eb5"/>
+	
+	<note measure="5" beat="4.0" duration="0.5" note="D5"/>
+	<note measure="5" beat="4.5" duration="0.5" note="Bb4"/>
+	
+	<note measure="6" beat="1.0" duration="1.5" note="C5"/>
+	<note measure="6" beat="2.5" duration="0.5" note="A4"/>
+	<note measure="6" beat="3.0" duration="1.0" note="F4"/>
+	<note measure="6" beat="4.0" duration=".5" note="D5"/>
+	<note measure="6" beat="4.5" duration=".5" note="Bb4"/>
+	
+	<note measure="7" beat="1.0" duration="3.0" note="C5"/>
+	<note measure="7" beat="4.0" duration="0.5" note="F5"/>
+	<note measure="7" beat="4.5" duration="0.5" note="Bb4"/>
+	
+	<note measure="8" beat="1.0" duration="1.5" note="Eb5"/>
+	<note measure="8" beat="2.5" duration="0.5" note="D5"/>
+	<note measure="8" beat="3.0" duration="1.5" note="D5"/>
+	<note measure="8" beat="4.5" duration=".5" note="C5"/>
+	
+	<note measure="9" beat="1.0" duration="3.0" note="C5"/>
+	<note measure="9" beat="4.0" duration="0.5" note="Bb4" />
+	<note measure="9" beat="4.5" duration="0.5" note="A4"/>
+	
+	<note measure="10" beat="1.0" duration="3.0" note="Bb4"/>
+	<note measure="10" beat="4.0" duration="0.5" note="Bb4"/>
+	<note measure="10" beat="4.5" duration="0.5" note="A4"/>
+	
+	<note measure="11" beat="1.0" duration="3.0" note="Bb4"/>
+	
+	<note measure="11" beat="4.0" duration="0.5" note="Bb4"/>
+    <note measure="11" beat="4.5" duration="0.5" note="A4"/>
+	
+	<note measure="12" beat="1.0" duration="1.0" note="Bb4"/>
+	<note measure="12" beat="2.0" duration="1.0" note="F4"/>
+	<note measure="12" beat="3.0" duration="1.0" note="F5"/>
+	
+	<note measure="12" beat="4.0" duration="0.5" note="Eb5"/>
+	<note measure="12" beat="4.5" duration="0.5" note="D5"/>
+	
+	<note measure="13" beat="1.0" duration="3.0" note="Eb5"/>
+	
+    
+   
+  </instrument>
+  
+   <instrument instrument="Tuba">
+    
+    
+	<note measure="2" beat="1.0" duration="2.0" note="Bb2"/>
+	<note measure="2" beat="3.0" duration="2.0" note="Bb2"/>
+    
+	
+	<note measure="3" beat="1.0" duration="2.0" note="Eb3"/>
+	<note measure="3" beat="3.0" duration="2.0" note="Eb3"/>
+	
+	<note measure="4" beat="1.0" duration="2.0" note="Bb2"/>
+	<note measure="4" beat="3.0" duration="2.0" note="Bb2"/>
+	
+	<note measure="5" beat="1.0" duration="2.0" note="Bb2"/>
+	<note measure="5" beat="3.0" duration="2.0" note="Bb2"/>
+	
+	<note measure="6" beat="1.0" duration="3.0" note="F3" />
+	<note measure="6" beat="4.0" duration="1.0" note="Bb2"/>
+	
+	<note measure="7" beat="1.0" duration="2.0" note="F3"/>
+	<note measure="7" beat="3.0" duration="2.0" note="F3"/>
+	
+	<note measure="8" beat="1.0" duration="1.5" note="G3"/>
+	<note measure="8" beat="2.5" duration="0.5" note="F3"/>
+	<note measure="8" beat="3.0" duration="2.0" note="F3"/>
+	
+	<note measure="9" beat="1.0" duration="2.0" note="F3"/>
+	<note measure="9" beat="3.0" duration="1.75" note="F3"/>
+	
+	<note measure="9" beat="4.75" duration="0.75" note="E3" Gnote ="B2"/>
+	<note measure="10" beat="1.5" duration="1.25" note="Bb2"/>
+	<note measure="10" beat="2.75" duration=".5" note="Bb2"/>
+	<note measure="10" beat="3.25" duration="1.75" note="Bb2"/>
+	
+	<note measure="11" beat="1.0" duration="0.75" note="B2" Gnote ="E3"/>
+	<note measure="11" beat="1.75" duration="1.25" note="F3"/>
+	<note measure="11" beat="3.0" duration=".5" note="F3"/>
+	<note measure="11" beat="3.5" duration="1.5" note="F3"/>
+	
+	<note measure="12" beat="1.0" duration="2.0" note="Bb2"/>
+	<note measure="12" beat="3.0" duration="2.0" note="Bb2"/>
+	
+	<note measure="13" beat="1.0" duration="3.0" note="Bb2"/>
+
+	
+	
+     
+   
+  </instrument>
+  
+</score>

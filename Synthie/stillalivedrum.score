@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+  <instrument instrument="BassSynthDrum" repeat="7">
+    <note measure="2" beat="1" duration="0.5" note="G4"/>
+    <note measure="2" beat="3" duration="0.5" note="A4"/>
+  </instrument>
+  
+  <instrument instrument="ShakerDrum" repeat="5">
+    <note measure="10" beat="1.0" duration="1.0" note="E5"/>
+    <note measure="10" beat="2.0" duration="1.0" note="C5"/>
+    <note measure="10" beat="3.0" duration="1.0" note="D5"/>
+    <note measure="10" beat="3.14" duration="1.0" note="D5"/>
+    <note measure="10" beat="3.28" duration="1.0" note="D5"/>
+    <note measure="10" beat="4.0" duration="1.0" note="C5"/>
+  </instrument>
+
+  <instrument instrument="ShakerDrum" repeat="28">
+    <note measure="17" beat="1.0" duration="1.0" note="E5"/>
+    <note measure="17" beat="2.0" duration="1.0" note="C5"/>
+    <note measure="17" beat="3.0" duration="1.0" note="D5"/>
+    <note measure="17" beat="3.14" duration="1.0" note="D5"/>
+    <note measure="17" beat="3.28" duration="1.0" note="D5"/>
+    <note measure="17" beat="4.0" duration="1.0" note="C5"/>
+  </instrument>
+
+  <instrument instrument="SnareDrum" repeat="5">
+    <note measure="10" beat="4.0" duration="1.0" note="D5"/>
+    <note measure="10" beat="4.5" duration="1.0" note="E5"/>
+  </instrument>
+
+  <instrument instrument="SnareDrum" repeat="28">
+    <note measure="17" beat="4.0" duration="1.0" note="D5"/>
+    <note measure="17" beat="4.5" duration="1.0" note="E5"/>
+  </instrument>
+
+  <instrument instrument="TomDrum2" repeat="21">
+    <note measure="24" beat="2.0" duration="1.0" note="C5"/>
+    <note measure="24" beat="4.0" duration="1.0" note="A4"/>
+  </instrument>
+
+  <instrument instrument="TomDrum1">
+    <note measure="28" beat="2.55" duration="0.8" note="E5"/>
+    <note measure="28" beat="3.0" duration="0.8" note="C5"/>
+    <note measure="28" beat="3.45" duration="0.8" note="D5"/>
+    <note measure="28" beat="4.5" duration="0.8" note="C5"/>
+    <note measure="29" beat="1.0" duration="0.8" note="B4"/>
+    
+    <note measure="36" beat="2.55" duration="0.8" note="E5"/>
+    <note measure="36" beat="3.0" duration="0.8" note="C5"/>
+    <note measure="36" beat="3.45" duration="0.8" note="D5"/>
+    <note measure="36" beat="4.5" duration="0.8" note="C5"/>
+    <note measure="37" beat="1.0" duration="0.8" note="B4"/>
+    
+    <note measure="44" beat="2.55" duration="0.8" note="E5"/>
+    <note measure="44" beat="3.0" duration="0.8" note="C5"/>
+    <note measure="44" beat="3.45" duration="0.8" note="D5"/>
+    <note measure="44" beat="4.5" duration="0.8" note="C5"/>
+    <note measure="45" beat="1.0" duration="0.8" note="B4"/>
+  </instrument>
+
+  <instrument instrument="CrashDrum">
+    <note measure="28" beat="1.0" duration="2.0" note="E5"/>
+    <note measure="28" beat="1.0" duration="2.0" note="D5"/>
+    <note measure="28" beat="1.0" duration="2.0" note="C5"/>
+    <note measure="28" beat="1.0" duration="2.0" note="B4"/>
+    <note measure="28" beat="1.0" duration="2.0" note="A4"/>
+
+    <note measure="36" beat="1.0" duration="2.0" note="E5"/>
+    <note measure="36" beat="1.0" duration="2.0" note="D5"/>
+    <note measure="36" beat="1.0" duration="2.0" note="C5"/>
+    <note measure="36" beat="1.0" duration="2.0" note="B4"/>
+    <note measure="36" beat="1.0" duration="2.0" note="A4"/>
+
+    <note measure="44" beat="1.0" duration="2.0" note="E5"/>
+    <note measure="44" beat="1.0" duration="2.0" note="D5"/>
+    <note measure="44" beat="1.0" duration="2.0" note="C5"/>
+    <note measure="44" beat="1.0" duration="2.0" note="B4"/>
+    <note measure="44" beat="1.0" duration="2.0" note="A4"/>
+  </instrument>
+
+</score>

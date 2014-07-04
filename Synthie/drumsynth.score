@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+  <instrument instrument="SynthDrum">
+    <note measure="1" beat="1" duration="0.35" note="D4"/>
+    <note measure="1" beat="1.5" duration="0.35" note="F4"/>
+    <note measure="1" beat="2" duration="0.35" note="D5"/>
+    <note measure="1" beat="3" duration="0.35" note="D4"/>
+    <note measure="1" beat="3.5" duration="0.35" note="F4"/>
+    <note measure="1" beat="4" duration="0.35" note="D5"/>
+  </instrument>
+  <instrument instrument="BassSynthDrum">
+    <note measure="2" beat="1" duration="0.35" note="D4"/>
+    <note measure="2" beat="1.5" duration="0.35" note="F4"/>
+    <note measure="2" beat="2" duration="0.35" note="D5"/>
+    <note measure="2" beat="3" duration="0.35" note="D4"/>
+    <note measure="2" beat="3.5" duration="0.35" note="F4"/>
+    <note measure="2" beat="4" duration="0.35" note="D5"/>
+  </instrument>
+</score>
